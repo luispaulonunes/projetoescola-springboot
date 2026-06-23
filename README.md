@@ -1,6 +1,7 @@
 # Sistema de Gerenciamento de Usuários
 
-Projeto desenvolvido durante a disciplina de Imersão Profissional do curso de Sistemas para Internet.
+Projeto desenvolvido para a disciplina
+Imersão Profissional: Desenvolvimento de Aplicação Web.
 
 ## Tecnologias
 
@@ -8,10 +9,10 @@ Projeto desenvolvido durante a disciplina de Imersão Profissional do curso de S
 - Spring Boot
 - Spring Security
 - JWT
+- MySQL
 - Spring Data JPA
 - Hibernate
-- MySQL
-- HTML5
+- HTML
 - JavaScript
 
 ## Funcionalidades
@@ -20,11 +21,11 @@ Projeto desenvolvido durante a disciplina de Imersão Profissional do curso de S
 - Listagem de usuários
 - Atualização de usuários
 - Exclusão de usuários
-- Autenticação JWT
+- Login com JWT
 
-## Estrutura
+## Banco de Dados
 
-Frontend desenvolvido em HTML e JavaScript consumindo uma API REST desenvolvida com Spring Boot.
+MySQL
 
 ## Autor
 
